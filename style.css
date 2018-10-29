@@ -20,6 +20,10 @@ body {
   color: #ea1c2c;
 }
 
+.container-fluid {
+  overflow: hidden;
+}
+
 #headingGroup h1 {
   font-weight: 100;
   font-size: 4rem;
