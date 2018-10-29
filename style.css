@@ -46,10 +46,6 @@ body {
   line-height: 2;
 }
 
-.content {
-  margin-bottom: 100px;
-}
-
 .navbar.scrolled {
   background: #dec0de;
   transition: background 500ms;
